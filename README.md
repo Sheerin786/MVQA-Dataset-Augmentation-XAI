@@ -2,10 +2,12 @@
 # Install dependencies
 # Clone project
 git clone https://github.com/Sheerin786/MVQA-Dataset-Augmentation-XAI
+
 cd Visual-Question-Answering-for-Medical-domain
 
 # [OPTIONAL] Create conda environment
 conda env create -f conda_env_gpu.yaml -n your_env_name
+
 conda activate your_env_name
 
 # Install requirements
